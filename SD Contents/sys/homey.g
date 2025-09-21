@@ -1,0 +1,7 @@
+; homey.g - Home Y (Y max)
+
+G91
+G1 H1 Y400 F7500
+G1 Y-5 F1000
+G1 H1 Y10 F1200
+G90
