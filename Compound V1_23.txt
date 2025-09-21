@@ -1,4 +1,0 @@
-This is the Compound SD Structure
-
-
-Updated with ProMega version 1.23 in mind
